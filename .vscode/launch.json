@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SpOdd",
+      "request": "launch",
+      "mainClass": "SpOdd",
+      "projectName": "cs152_cd084476"
+    },
+    {
+      "type": "java",
       "name": "LinesOfFile",
       "request": "launch",
       "mainClass": "LinesOfFile",
